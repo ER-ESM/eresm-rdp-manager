@@ -1,0 +1,6 @@
+# Build-Ergebnisse (werden mit build.cmd erzeugt)
+*.exe
+*.pdb
+app.ico
+bin/
+obj/
